@@ -1,2 +1,3 @@
-# nerd-trader.github.io
-Organization's website
+# NerdTrader
+
+- [stmtr: a stock investment gain/loss estimation tool](/estimator/)
