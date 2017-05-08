@@ -1,0 +1,3 @@
+[submodule "estimator"]
+	path = estimator
+	url = https://github.com/nerd-trader/stmtr.git
