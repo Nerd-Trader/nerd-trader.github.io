@@ -3,4 +3,4 @@
 	url = https://github.com/nerd-trader/stmtr.git
 [submodule "timeline"]
 	path = timeline
-	url = git@github.com:nerd-trader/stock-market-timeline.git
+	url = https://github.com/nerd-trader/stock-market-timeline.git
