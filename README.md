@@ -1,3 +1,4 @@
 # NerdTrader
 
-- [stmtr: a stock investment gain/loss estimation tool](/estimator/)
+- [estimator: a stock investment gain/loss estimation tool](/estimator/)
+- [timeline: see status of stock exchanges around the world](/timeline/)
