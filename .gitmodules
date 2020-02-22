@@ -1,6 +1,6 @@
 [submodule "estimator"]
 	path = estimator
-	url = https://github.com/nerd-trader/stmtr.git
+	url = https://github.com/nerd-trader/investment-estimator.git
 [submodule "timeline"]
 	path = timeline
 	url = https://github.com/nerd-trader/stock-market-timeline.git
